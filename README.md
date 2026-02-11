@@ -1,1 +1,3 @@
-# DMart
+# DMart Sales Dashboard (Power BI)
+
+This project involves creating an interactive DMart Online Store Sales Dashboard using Power BI to analyze sales performance and customer insights.The dashboard was built using DMart sales data and includes key metrics such as total MRP, product count, average ratings, and customer data. Visualizations like bar charts, pie charts, line graphs, tables, and maps were used to show category-wise sales, customer age distribution, time spent on the website, and location analysis.Filters (slicers) such as Category, Gender, and Payment Method were added to make the dashboard interactive and user-friendly. This project helps in understanding sales trends, customer behavior, and product performance for better business decision-making.
